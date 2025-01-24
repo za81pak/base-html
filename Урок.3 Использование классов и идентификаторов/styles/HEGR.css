@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    padding: 20px;
+}
+.zag-size {
+    font-size: 24px;
+width: 150px;
+}
+.sec-size-1 {
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.sec-size-2 {
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.color-sec-1 {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.color-sec-2 {
+    color: fuchsia;
+background-color: lightgreen;
+}
+
+
+
+
