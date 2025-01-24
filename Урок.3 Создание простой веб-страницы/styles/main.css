@@ -1,0 +1,17 @@
+* {
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box--blue {
+    background-color: blue;
+}
+ .box-title {
+     font-size: 32px;
+ }
+.box-text {
+    font-size: 18px;
+}
+.box-green {
+    background-color: green;
+}
