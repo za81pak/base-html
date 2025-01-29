@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: cyan;
+}
+.about-section {
+    display: flex;
+    align-items:center ;
+    justify-content:center;
+    background-color: greenyellow;
+    padding: 20px;
+    margin:  10px;
+}
+.services-section {
+    display: flex;
+    align-items:center ;
+    justify-content:center;
+    background-color: blueviolet;
+padding: 20px;
+    margin:  10px;
+}
+.contact-section {
+    display: flex;
+    align-items:center ;
+    justify-content:center;
+    background-color: gold;
+    padding: 20px;
+    margin:  10px;
+}
+.zag-1 {
+    font-size: 24;
+margin-right: 10px;
+}
+.zag-2 {
+    font-size: 24;
+    margin-right: 10px;
+}
+.zag-3 {
+    font-size: 24;
+    margin-right: 10px;
+}
+.text-1 {
+    color: crimson;
+}
+.text-2 {
+    color: cornflowerblue;
+}
+.text-3 {
+
+    color: hotpink;
+}
+
+
+
